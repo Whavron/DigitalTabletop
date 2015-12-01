@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\jenny\Desktop\DND project\Parse-Starter-Project-1.11.0\DigitalTabletop\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\jenny\Desktop\DND project\Parse-Starter-Project-1.11.0\DigitalTabletop\build\intermediates\pre-dexed\debug\classes-9ebd361fea4b4c1640dabb09c0374ccebc418551.jar" />
+    </item>
+    <item
+        jar="C:\Users\jenny\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.11.0\6592129dec2caa8791d322c7e4b6b7a30e8eadae\parse-android-1.11.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6592129dec2caa8791d322c7e4b6b7a30e8eadae">
+        <dex dex="C:\Users\jenny\Desktop\DND project\Parse-Starter-Project-1.11.0\DigitalTabletop\build\intermediates\pre-dexed\debug\parse-android-1.11.0-9a8985fe52ba015c1adafba9474a9666afd2aa9f.jar" />
+    </item>
+    <item
+        jar="C:\Users\jenny\Desktop\DND project\DigitalTabletop\DigitalTabletop\DigitalTabletop\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\jenny\Desktop\DND project\DigitalTabletop\DigitalTabletop\DigitalTabletop\build\intermediates\pre-dexed\debug\classes-e989e78cc876c617b4fe0e43a3b81dc0646fbafe.jar" />
+    </item>
+    <item
+        jar="C:\Users\jenny\Desktop\DND project\DigitalTabletop\DigitalTabletop\DigitalTabletop\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\jenny\Desktop\DND project\DigitalTabletop\DigitalTabletop\DigitalTabletop\build\intermediates\pre-dexed\debug\classes-f629f04738ff7a0cd25a85cb0e2dcdb34f5e2ce2.jar" />
+    </item>
+    <item
+        jar="C:\Users\jenny\Desktop\DND project\DigitalTabletop\DigitalTabletop\DigitalTabletop\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\jenny\Desktop\DND project\DigitalTabletop\DigitalTabletop\DigitalTabletop\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-e8ec23a952b903dcefd7fd6080211c5c3fdf3ed0.jar" />
+    </item>
+    <item
+        jar="C:\Users\jenny\Desktop\DND project\Parse-Starter-Project-1.11.0\DigitalTabletop\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\jenny\Desktop\DND project\Parse-Starter-Project-1.11.0\DigitalTabletop\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-fcef761b9d11bd5498cf05670fef633308c5684c.jar" />
+    </item>
+    <item
+        jar="C:\Users\jenny\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\jenny\Desktop\DND project\Parse-Starter-Project-1.11.0\DigitalTabletop\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-a6bdbdaae75dc63241bc9ea9fabc75ea741deb15.jar" />
+    </item>
+    <item
+        jar="C:\Users\jenny\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.3.0\8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c\bolts-tasks-1.3.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c">
+        <dex dex="C:\Users\jenny\Desktop\DND project\Parse-Starter-Project-1.11.0\DigitalTabletop\build\intermediates\pre-dexed\debug\bolts-tasks-1.3.0-45132906d736bab9f4c59cf31968d15ee3be8744.jar" />
+    </item>
+    <item
+        jar="C:\Users\jenny\Desktop\DND project\Parse-Starter-Project-1.11.0\DigitalTabletop\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\jenny\Desktop\DND project\Parse-Starter-Project-1.11.0\DigitalTabletop\build\intermediates\pre-dexed\debug\classes-e3290855d61c320a88a6f6ac5fda32add16e449c.jar" />
+    </item>
+
+</items>
